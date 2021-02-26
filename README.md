@@ -40,16 +40,11 @@ NOTE* - Upload the code then connect the bluetooth module
 Connect the Bluetooth module to PROG 1 Header as per table 
 	1 - GND
 	2 -  NC
-3 - VCC
+	3 - VCC
 	4 - BLuetooth TX
-5 - bluetooth RX
-6 - NC
-Fin1 PROG1 header  and pin 1 and 6 marked
-
-
-
-
-
+	5 - bluetooth RX
+	6 - NC
+Fin1 PROG1 header  and pin 1 is towards the edge of board
 
 Download Serial terminal app  and connect , You will automatically get live readings on your phone
 
